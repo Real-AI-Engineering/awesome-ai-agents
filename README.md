@@ -2,6 +2,7 @@
 
 A curated collection of open-source frameworks, tools, research papers, and learning resources for building AI agents, including single and multi‑agent systems. Agents combine large language models (LLMs) with memory, planning, tool integration, and reasoning to solve complex tasks autonomously. This repository provides quick links to each resource so that you can jump directly to projects, papers, or tutorials.
 
+
 ## Frameworks & Libraries
 
 ### General Orchestration Frameworks
@@ -27,8 +28,19 @@ A curated collection of open-source frameworks, tools, research papers, and lear
 - **BMTools** – registry of tools/APIs and helpers for equipping agents with capabilities such as web search and translation. [GitHub](https://github.com/OpenBMB/BMTools)
 - **Langroid** – multi‑agent programming framework focusing on message‑passing between agents. [GitHub](https://github.com/langroid/langroid)
 - **Phidata** – multi‑modal agent framework with built‑in tools and UI components. [GitHub](https://github.com/agno-agi/phidata)
-- **MetaGPT** – simulates a software company by assigning roles (PM, architect, engineer) to multiple GPT agents. [GitHub](https://github.com/geekan/MetaGPT)
-- **Hugging Face Transformers Agents** – API for using pre‑defined tools and models via natural language. [Docs](https://huggingface.co/docs/transformers/agent)
+-   * Hugging Face Transformers Agents – API for using pre‑defined tools and models via natural language. [Docs](htps://huggingface.co/docs/transformers/agent)
+    * 
+ 
+ ### Tracing & Observability Tools
+  * Agenta – open‑source LLMOps platform for prototyping, evaluating and observing LLM apps; core licensed MIT and self‑hostable. [GitHub](https://github.com/agenta-ai/agenta)
+  * Arize Phoenix – open‑source LLM tracing and evaluation system built on OpenTelemetry; self‑hostable. [GitHub](https://github.com/Arize-ai/phoenix)
+  * Comet Opik – open‑source LLM evaluation and observability tool offering free full feature set. [GitHub](https://github.com/comet-ml/opik)
+  * LangDB AI Gateway – Apache‑2.0 licensed gateway bridging LLM traffic with built‑in tracing capabilities; open source. [GitHub](https://github.com/langdb/ai-gateway)
+  * Langfuse – open‑source LLM engineering platform for observability and evaluation; self‑hostable. [GitHub](https://github.com/langfuse/langfuse)
+  * Langtrace – open‑source observability and evaluation platform for AI agents. [GitHub](https://github.com/accelerate-society/langtrace)
+  * MLflow (self‑hosted) – open‑source platform for managing the ML lifecycle including experiments and LLM observability; Apache‑2.0 license. [GitHub](https://github.com/mlflow/mlflow)
+  * Okahu Monocle – open‑source tracing framework for GenAI applications maintained by the Linux Foundation. [GitHub](https://github.com/OkahuAI/monocle)
+  * Pydantic Logfire – MIT‑licensed open‑source Python SDK for logging and tracing LLM events built on OpenTelemetry. [GitHub](https://github.com/pydantic/logfire)
 
 ## Research & Papers
 
