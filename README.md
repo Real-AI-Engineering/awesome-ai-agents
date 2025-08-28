@@ -29,8 +29,11 @@ A curated collection of open-source frameworks, tools, research papers, and lear
 - **Langroid** – multi‑agent programming framework focusing on message‑passing between agents. [GitHub](https://github.com/langroid/langroid)
 - **Phidata** – multi‑modal agent framework with built‑in tools and UI components. [GitHub](https://github.com/agno-agi/phidata)
 -   * Hugging Face Transformers Agents – API for using pre‑defined tools and models via natural language. [Docs](htps://huggingface.co/docs/transformers/agent)
-    * 
- 
+  
+ ### Speech & Voice Generation Models
+* **VibeVoice** – frontier long-conversational text-to-speech model generating expressive, multi-speaker audio from text by using continuous speech tokenizers and next-token diffusion combined with a large language model. It synthesizes up to 90 minutes of audio across four speakers, addressing scalability and speaker consistency challenges in traditional TTS. [GitHub](https://github.com/microsoft/VibeVoice)
+
+
  ### Tracing & Observability Tools
   * Agenta – open‑source LLMOps platform for prototyping, evaluating and observing LLM apps; core licensed MIT and self‑hostable. [GitHub](https://github.com/agenta-ai/agenta)
   * Arize Phoenix – open‑source LLM tracing and evaluation system built on OpenTelemetry; self‑hostable. [GitHub](https://github.com/Arize-ai/phoenix)
