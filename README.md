@@ -37,7 +37,7 @@ A curated collection of open-source frameworks, tools, research papers, and lear
   * Comet Opik – open‑source LLM evaluation and observability tool offering free full feature set. [GitHub](https://github.com/comet-ml/opik)
   * LangDB AI Gateway – Apache‑2.0 licensed gateway bridging LLM traffic with built‑in tracing capabilities; open source. [GitHub](https://github.com/langdb/ai-gateway)
   * Langfuse – open‑source LLM engineering platform for observability and evaluation; self‑hostable. [GitHub](https://github.com/langfuse/langfuse)
-  * Langtrace – open‑source observability and evaluation platform for AI agents. [GitHub](https://github.com/accelerate-society/langtrace)
+  * Langtrace – open‑source observability and evaluation platform for AI agents. [GitHub]([https://github.com/accelerate-society/langtrace](https://github.com/Scale3-Labs/langtrace)
   * MLflow (self‑hosted) – open‑source platform for managing the ML lifecycle including experiments and LLM observability; Apache‑2.0 license. [GitHub](https://github.com/mlflow/mlflow)
   * Okahu Monocle – open‑source tracing framework for GenAI applications maintained by the Linux Foundation. [GitHub](https://github.com/OkahuAI/monocle)
   * Pydantic Logfire – MIT‑licensed open‑source Python SDK for logging and tracing LLM events built on OpenTelemetry. [GitHub](https://github.com/pydantic/logfire)
