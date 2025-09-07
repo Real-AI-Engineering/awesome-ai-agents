@@ -65,6 +65,7 @@ A curated collection of open-source frameworks, tools, research papers, and lear
 
 ### Multi‑Agent Communication & Collaboration
 - **CAMEL: Communicative Agents for “Mind” Exploration** (Li et al., 2023) – agents collaborate through role‑playing dialogues. [arXiv](https://arxiv.org/abs/2303.17760)
+
 - **MetaGPT** (Hong et al., 2023) – organizes agents into roles (PM, engineer, QA) to deliver complete software projects. [arXiv](https://arxiv.org/abs/2308.07370)
 
 ### Evaluation & Benchmarks
